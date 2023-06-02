@@ -1,7 +1,7 @@
 # duplication_detector
-During the long-term evolution, ancestors of current species had underdone few to several waves of whole genome duplication (WGD) events, which contributes to the genetic and morphological innovation. Nowadays researchers adopt many accepted approaches, e.g. chromosome-level synteny and Ks distribution of protein genes, to identify and understand the signals of WGD with currently available genomes. Approximate one decade ago, Jiao et al. (2011) developed a phylogenomic  approach and found two ancient WGD event predating the origin of angiosperms and seed plants. This approach takes its unique advantage for studies with a long time span (>300 Myr), because faint chromosome-level synteny and saturated Ks cannot provide precise if any information under such evolutionary scale.
+During the long-term evolution, ancestors of current species had underdone few to several waves of whole genome duplication (WGD) events, which contributes to the genetic and morphological innovation. Nowadays researchers adopt many accepted approaches, e.g. chromosome-level synteny and Ks distribution of protein genes, to identify and understand the signals of WGD with currently available genomes. Approximate one decade ago, Jiao et al. (2011) developed a phylogenomic  approach and found two ancient WGD event predating the origin of angiosperms and seed plants. This approach takes its unique advantage for studies with a long time span (>300 Myr), because faint chromosome-level synteny and saturated Ks cannot provide precise information under such evolutionary scale.
 
-Based on the method adopted in Jiao et al. (2011), I provide a user-friendly script (infer_duplication_node.pl) to fulfil similar phylogenomic analysis.
+Based on the method in Jiao et al. (2011), I provide a user-friendly script (infer_duplication_node.pl) to fulfil similar phylogenomic analysis.
 
 ## Dependencies
 - Perl5
